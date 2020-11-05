@@ -41,7 +41,7 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 * Reporting bugs
 * Creating a test report
 # Training skills
-[utest.com](https://www.utest.com/ref896395)
+[utest.com](https://www.utest.com) Platform ID: 896395
 # My examples of test reports
 
 [Kingschat Website](https://accounts.kingsch.at) Report [link](https://drive.google.com/file/d/1PmJnXPpRzYiz46exCKzCSdhnKcyUxF0h/view?usp=sharing)
