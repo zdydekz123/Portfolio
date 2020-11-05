@@ -40,3 +40,5 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 * Creating test cases
 * Reporting bugs
 * Creating a test report
+# Training skills
+utest.com
