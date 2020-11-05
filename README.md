@@ -46,6 +46,10 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 
 [Kingschat Website](https://accounts.kingsch.at) - Report [link](https://drive.google.com/file/d/1PmJnXPpRzYiz46exCKzCSdhnKcyUxF0h/view?usp=sharing)
 
-[Dbankdemo Website](http://dbankdemo.com/login) - Report [link](https://drive.google.com/file/d/1yMfUu516NrW9fKriguoQW1civllPtzV9/view?usp=sharing)
+[Dbankdemo Website](http://dbankdemo.com) - Report [link](https://drive.google.com/file/d/1yMfUu516NrW9fKriguoQW1civllPtzV9/view?usp=sharing)
 # My examples of bug reports
+Bugs reported for **dbankdemo.com** by Jira:
+* https://drive.google.com/file/d/1-0kmC-3MuCrsHkr7UWatrnD0iahHW7mg/view
+* https://drive.google.com/file/d/1BA7vMCLaN37cviy_LhDtPVgik2U2yEDG/view?usp=sharing
+* https://drive.google.com/file/d/1pNHpsGI0kQKYphUlvDuaCGYSMoiP3H2_/view?usp=sharing
 # My project
