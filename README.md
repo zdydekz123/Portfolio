@@ -44,8 +44,8 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 [utest.com](https://www.utest.com)
 # My examples of test reports
 
-Kingschat Website [link:](https://accounts.kingsch.at) Report [link:](https://drive.google.com/file/d/1OhqaWq808geUsRET7p0GqcvIbphbQa6a/view)
+[Kingschat Website](https://accounts.kingsch.at) Report [link](https://drive.google.com/file/d/1OhqaWq808geUsRET7p0GqcvIbphbQa6a/view)
 
-Dbankdemo Website [link:](http://dbankdemo.com/login) Report [link:](https://drive.google.com/file/d/1yMfUu516NrW9fKriguoQW1civllPtzV9/view?usp=sharing)
+[Dbankdemo Website](http://dbankdemo.com/login) Report [link](https://drive.google.com/file/d/1yMfUu516NrW9fKriguoQW1civllPtzV9/view?usp=sharing)
 # My examples of bug reports
 # My project
