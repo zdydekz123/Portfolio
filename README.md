@@ -26,8 +26,10 @@ My name is Milosz. I have been starting interesting about testing of software 6 
  * [QA Testers - job offers, oferty pracy, jobangebote](https://www.facebook.com/groups/808752555920542)
  
 **Blogs**:
-[testerzy.pl](https://testerzy.pl/)
-[pwicherski.gitbook.io](https://pwicherski.gitbook.io)
+
+* [testerzy.pl](https://testerzy.pl/)
+* [pwicherski.gitbook.io](https://pwicherski.gitbook.io)
+
 # Certificates
 * [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - during
 # Technical Skills
