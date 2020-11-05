@@ -42,3 +42,8 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 * Creating a test report
 # Training skills
 [utest.com](https://www.utest.com)
+# My examples of test reports
+[](https://drive.google.com/file/d/1t5J3RDm4Zb7rqyUkwKOSbdQSdT6HXnV6/view?usp=sharing)
+[http://dbankdemo.com/login](https://drive.google.com/file/d/10nrRNM-zBfmmNuRj1keKOlJLTnxJJ5GG/view?usp=sharing)
+# My examples of bug reports
+# My project
