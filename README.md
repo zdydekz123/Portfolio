@@ -24,3 +24,15 @@ My name is Milosz. I have been starting interesting about testing of software 6 
  * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
  * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
  * [QA Testers - job offers, oferty pracy, jobangebote](https://www.facebook.com/groups/808752555920542)
+**Blogs**:
+[testerzy.pl](https://testerzy.pl/)
+[pwicherski.gitbook.io](https://pwicherski.gitbook.io)
+# Certificates
+* [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - during
+# Technical Skills
+* SQL
+* SCRUM
+* Software testing
+* Creating test cases
+* Reporting bugs
+* Creating a test report
