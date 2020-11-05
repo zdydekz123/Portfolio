@@ -20,7 +20,7 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 * J.Duckett - HTML i CSS Zaprojektuj i zbuduj witrynę WWW
 * J.Duckett - Javascript i Jquery Interaktywne strony WWW dla każdego
 # Recommended blogs and groups
-* **FB groups**: 
+**FB groups**: 
  * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
  * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
  * [QA Testers - job offers, oferty pracy, jobangebote](https://www.facebook.com/groups/808752555920542)
