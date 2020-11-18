@@ -52,7 +52,7 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 Bugs reported for **dbankdemo.com** by Jira:
 * [Bug 1](https://drive.google.com/file/d/1OrMBzXudkt9rntgAaaO45UeiXESrh_Op/view?usp=sharing)
 * [Bug 2](https://drive.google.com/file/d/1gZzGwLTs2dwWsVVLgsWL3oyEHag9Ulun/view?usp=sharing)
-* [Bug 3](https://drive.google.com/file/d/1pNHpsGI0kQKYphUlvDuaCGYSMoiP3H2_/view?usp=sharing)
+* [Bug 3](https://drive.google.com/file/d/1ZiAiu8EtOZhLgRaYDww7GoARIlESKUva/view?usp=sharing)
 
 Bugs reported for **Kingchat** by Jira:
 * [Bug 1](https://drive.google.com/file/d/1SRvzzjNj-7PkbRdrpC5AtSAqEZ4akyd4/view?usp=sharing)
