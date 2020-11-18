@@ -59,3 +59,4 @@ Bugs reported for **Kingchat** by Jira:
 * [Bug 2](https://drive.google.com/file/d/1ttK3ioAMGQ6Vp0H8Ye0tkZQtZfUIFRbW/view?usp=sharing)
 * [Bug 3](https://drive.google.com/file/d/17RSbf8-VMzSB1qvIy8MrkFJNiJh7s9BA/view?usp=sharing)
 # My project
+* soon
