@@ -55,8 +55,8 @@ Bugs reported for **dbankdemo.com** by Jira:
 * [Bug 3](https://drive.google.com/file/d/1ZiAiu8EtOZhLgRaYDww7GoARIlESKUva/view?usp=sharing)
 
 Bugs reported for **Kingchat** by Jira:
-* [Bug 1](https://drive.google.com/file/d/1SMQsdkTaZ4SdfplbwPmYyOBJ9JY5fCmc/view)
-* [Bug 2](https://drive.google.com/file/d/1ttK3ioAMGQ6Vp0H8Ye0tkZQtZfUIFRbW/view?usp=sharing)
+* [Bug 1](https://drive.google.com/file/d/1FS3vIWABMrop-caJvERrxa5U5JIelUuz/view?usp=sharing)
+* [Bug 2](https://drive.google.com/file/d/1ENT9xKW3svp2VRHCpj2zHZLWA6C52MrL/view?usp=sharing)
 * [Bug 3](https://drive.google.com/file/d/17RSbf8-VMzSB1qvIy8MrkFJNiJh7s9BA/view?usp=sharing)
 # My project
 * soon
