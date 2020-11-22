@@ -9,7 +9,7 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 * **Tools for testing management** - Jira
 * **Tools for test cases management** - TestRail
 # Courses and Bootcamps
-* **[Software Development Academy](https://sdacademy.pl)** - Software tester - remotely course
+* **[Software Development Academy](https://sdacademy.pl)** - Software tester
 
 **UDEMY courses**:
 * python for begginers - [Direct link](https://www.udemy.com/course/python-dla-poczatkujacych)
