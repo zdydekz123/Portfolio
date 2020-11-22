@@ -11,9 +11,6 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 # Courses and Bootcamps
 * **[Software Development Academy](https://sdacademy.pl)** - Software tester
 
-**UDEMY courses**:
-* python for begginers - [Direct link](https://www.udemy.com/course/python-dla-poczatkujacych)
-* build websites course and basics CSS - [Direct link](https://www.udemy.com/course/kurs-tworzenia-stron-www-w-html-i-css-od-podstaw-do-eksperta)
 # Books
 * R.Smilgin - Zawód tester (During)
 * A.Roman, L.Stapp - Certyfikowany tester ISTQB
