@@ -2,7 +2,7 @@
 # About me
 My name is Milosz. I have been starting interesting about testing of software 6 month ago. I've liked this direction and started to go into testing in my own. In the beginning I've taken part in course in term to manual testers and studying post graduate of mobile software testing. In free time I like play in games on console and hanging out with close friends as well. Actually i am interesting and like in travels and willing to persuade other people which never been in another country to visit. It's one of some goals in my life but my main aim is that I would like to work as specialist of testing for my whole life, enjoy and share testing with people.
 # Tools
-* **Programming languages and frameworks** - Java (basic), Python (during), Javascript (basic), CSS
+* **Programming languages and frameworks** - Java (basics), Python (basics), Javascript (basics), CSS
 * **Databases** - SQL
 * **Operating system** - Windows, Linux 
 * **Known Management methodologies** - Scrum, Agile
