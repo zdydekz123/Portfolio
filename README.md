@@ -29,7 +29,7 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io)
 
 # Certificates
-* [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - The exam passed on 22 december (waiting for id status)
+* [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - The exam passed on 22th december (waiting for id status)
 # Technical Skills
 * SQL
 * SCRUM
