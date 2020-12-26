@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-My name is Milosz. I have been starting interesting about testing of software 6 month ago. I've liked this direction and started to go into testing in my own. In the beginning I've taken part in course in term to manual testers and studying post graduate of mobile software testing. In free time I like play in games on console and hanging out with close friends as well. Actually i am interesting and like in travels and willing to persuade other people which never been in another country to visit. It's one of some goals in my life but my main aim is that I would like to work as specialist of testing for my whole life, enjoy and share testing with people.
+My name is Milosz. I've been interesting about testing software 6 month ago. I've liked this direction and started to find proper materials over deeper. I decided to took part in course of SDA about manual testing and post graduate directed to automation testing. In spare time I like play in games on console and hanging out with close friends as well. I'm trying increase my abilities in testing and seeking new solution to how to solve a sort of issues.
 # Tools
 * **Programming languages and frameworks** - Java (basics), Python (basics), Javascript (basics), CSS3, HTML5
 * **Databases** - SQL
@@ -59,3 +59,5 @@ Bugs reported for **Kingchat** by Jira:
 # My examples of test cases
 Test cases for **answear.com** in TestRail:
 * [case 1](https://drive.google.com/file/d/1Y5iwOmdS3a8cJ85iQ7TA6ohnJBKwXarL/view)
+* [case 2]()
+* [case 3]()
