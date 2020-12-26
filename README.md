@@ -58,6 +58,6 @@ Bugs reported for **Kingchat** by Jira:
 
 # My examples of test cases
 Test cases for **answear.com** in TestRail:
-* [case 1](https://drive.google.com/file/d/1Y5iwOmdS3a8cJ85iQ7TA6ohnJBKwXarL/view)
-* [case 2](https://drive.google.com/file/d/1rT8it1_GQaLpSE_U1eSqWcdjeW4uHMzZ/view?usp=sharing)
-* [case 3]()
+* [case 1](https://drive.google.com/file/d/16p9TuM8C-OTigsp7gk9bk-XB0VtfSUuI/view?usp=sharing)
+* [case 2](https://drive.google.com/file/d/1g9EHLtasLv4XdqFkoRIq4rT6DUo77VFo/view?usp=sharing)
+* [case 3](https://drive.google.com/file/d/1X0AiPZqaIy2wD2mTuNDeM95zbqGgOsND/view?usp=sharing)
