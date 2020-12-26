@@ -29,7 +29,7 @@ My name is Milosz. I have been starting interesting about testing of software 6 
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io)
 
 # Certificates
-* [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - during
+* [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - The exam passed on 22 december (waiting for id status)
 # Technical Skills
 * SQL
 * SCRUM
@@ -56,4 +56,6 @@ Bugs reported for **Kingchat** by Jira:
 * [Bug 2](https://drive.google.com/file/d/1ENT9xKW3svp2VRHCpj2zHZLWA6C52MrL/view?usp=sharing)
 * [Bug 3](https://drive.google.com/file/d/12AdWjDNb4Nsxyea9peljR2N0k0VXEs_s/view?usp=sharing)
 
-# My examples of test cases in TestRail
+# My examples of test cases
+Test cases for **answear.com** in TestRail:
+* [case 1](https://drive.google.com/file/d/1FS3vIWABMrop-caJvERrxa5U5JIelUuz/view?usp=sharing)
