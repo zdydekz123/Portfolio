@@ -58,6 +58,11 @@ Bugs reported for **Kingchat** by Jira:
 
 # My examples of test cases
 Test cases for **answear.com** in TestRail:
-* [case 1](https://drive.google.com/file/d/16p9TuM8C-OTigsp7gk9bk-XB0VtfSUuI/view?usp=sharing)
-* [case 2](https://drive.google.com/file/d/1g9EHLtasLv4XdqFkoRIq4rT6DUo77VFo/view?usp=sharing)
-* [case 3](https://drive.google.com/file/d/1X0AiPZqaIy2wD2mTuNDeM95zbqGgOsND/view?usp=sharing)
+* [case 1](https://drive.google.com/file/d/1uHMQHMdsdJEtZRFmOj10s2FKVs5UkB_H/view?usp=sharing)
+* [case 2](https://drive.google.com/file/d/1R_EBY3vRAp1T7Qc1PI83pcC0xugsqysV/view?usp=sharing)
+* [case 3](https://drive.google.com/file/d/1-AvuXnHxYA1b2c1N_6QDZRjehp7tOPN3/view?usp=sharing)
+
+Test cases for **facebook.com** in TestRail:
+* [case 1](https://drive.google.com/file/d/1S0OT7E9xZPUOaaXLqh2AWnLSH9AzsVFz/view?usp=sharing)
+* [case 2](https://drive.google.com/file/d/1s5060iZKoL61kEj-bofbK4QmNZdnO3Mn/view?usp=sharing)
+* [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
