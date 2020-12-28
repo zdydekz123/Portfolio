@@ -68,4 +68,4 @@ Test cases for **facebook.com** in TestRail:
 * [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
 
 # My project
-*Testing of mobile app [Timber Music Player](https://play.google.com/store/apps/details?id=naman14.timber&pcampaign)
+Testing of mobile app [Timber Music Player](https://play.google.com/store/apps/details?id=naman14.timber&pcampaign)
