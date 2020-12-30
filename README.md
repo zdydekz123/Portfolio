@@ -4,7 +4,7 @@ My name is Milosz. I've been interesting about testing software 6 month ago. I'v
 # Tools
 * **Programming languages and frameworks** - Java (basics), Python (basics), Javascript (basics), CSS3, HTML5
 * **Databases** - SQL
-* **Operating system** - Windows, Linux (in progress) 
+* **Operating system** - Windows, Linux (in progress develop) 
 * **Known Management methodologies** - Scrum, Agile
 * **Tools for testing management** - Jira
 * **Tools for test cases management** - TestRail
