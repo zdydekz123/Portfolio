@@ -74,5 +74,8 @@ Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id
 
 Reported test cases in TestRail:
 
-Queue area:
-* [Bug 1](https://drive.google.com/file/d/1FS3vIWABMrop-caJvERrxa5U5JIelUuz/view?usp=sharing) * [Bug 1](https://drive.google.com/file/d/1FS3vIWABMrop-caJvERrxa5U5JIelUuz/view?usp=sharing)
+**Home page** area:
+* [TC 1]() * [TC 2]()
+
+**Queue** area:
+* [TC 1]() * [TC 2]() * [TC 3]() * [TC 4]() * [TC 5]() * [TC 6]() * [TC 7]()
