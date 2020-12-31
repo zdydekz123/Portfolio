@@ -78,4 +78,4 @@ Reported test cases in TestRail:
 * [TC 1]() * [TC 2]()
 
 **Queue** area:
-* [TC 1]() * [TC 2]() * [TC 3]() * [TC 4]() * [TC 5]() * [TC 6]() * [TC 7]()
+* [TC 1]() *[TC 2]() * [TC 3]() * [TC 4]() * [TC 5]() * [TC 6]() * [TC 7]()
