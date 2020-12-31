@@ -76,8 +76,8 @@ Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id
 Reported test cases in TestRail:
 
 **Home page** area:
-* [TC-1](https://drive.google.com/file/d/1W0rDEXr3Am52szgLb28vZOJi8hAZZFJb/view?usp=sharing) [TC-2](https://drive.google.com/file/d/149GtTxoVJOO1NlLIbtuOJTAQ14BUSKcK/view?usp=sharing)
+* [TC-1](https://drive.google.com/file/d/1W0rDEXr3Am52szgLb28vZOJi8hAZZFJb/view?usp=sharing), [TC-2](https://drive.google.com/file/d/149GtTxoVJOO1NlLIbtuOJTAQ14BUSKcK/view?usp=sharing)
 
 **Queue** area:
-* [TC-3](), [TC-4](), [TC-5](), [TC-5](), [TC-6](), [TC-7](), [TC-8](), [TC-9](), [TC-10](),
-* [TC-11](), [TC-12](), [TC-13](), [TC-14](), [TC-15](), [TC-16](), [TC-17](), [TC-18](), [TC-19]().
+* [TC-3](https://drive.google.com/file/d/1ZipfWHMcAE3W14u0HarcGhDj1xZyPwkG/view?usp=sharing), [TC-4](https://drive.google.com/file/d/1ntUaqrrwsTvdK_qWH_a2I48vwWWGR8-M/view?usp=sharing), [TC-5](https://drive.google.com/file/d/1LdmRZ-0_2zWbWZdEtFzEf49sKvdkaE4A/view?usp=sharing), [TC-6](https://drive.google.com/file/d/19p2Z5Xmfi6G-WW2a34c6t506ch87ouYi/view?usp=sharing), [TC-7](https://drive.google.com/file/d/1b5H05d_jdJIY7vXTDTXyv64PdVBSZYp8/view?usp=sharing), [TC-8](https://drive.google.com/file/d/1gFUVOimLi2-bk-LI03bean1eLo5oNN24/view?usp=sharing), [TC-9](https://drive.google.com/file/d/1xeSlr8IKZtiUJV92iNOlWgpdJIdqDZrV/view?usp=sharing), [TC-10](https://drive.google.com/file/d/1OOFWS5qi_DEyikAqv8F6EZKLy8k84wpD/view?usp=sharing), [TC-11](https://drive.google.com/file/d/1cgnFFMSAGCEd6wwvl8259xOuVfs5c_s9/view?usp=sharing),
+* [TC-12](), [TC-13](), [TC-14](), [TC-15](), [TC-16](), [TC-17](), [TC-18](), [TC-19](), [TC-20]().
