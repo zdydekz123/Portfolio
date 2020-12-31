@@ -68,7 +68,7 @@ Test cases for **facebook.com** in TestRail:
 * [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
 
 # My project
-Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) **(in progress of test cycle)**
 
 [Technical documentation](https://drive.google.com/file/d/1gw0WMzUKmK033jaAjn6BX6mpxkXue_IV/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
 
