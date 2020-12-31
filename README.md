@@ -72,10 +72,11 @@ Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id
 
 [Technical documentation](https://drive.google.com/file/d/1gw0WMzUKmK033jaAjn6BX6mpxkXue_IV/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
 
+
 Reported test cases in TestRail:
 
 **Home page** area:
-* [TC-1]() [TC-2]()
+* [TC-1](https://drive.google.com/file/d/1W0rDEXr3Am52szgLb28vZOJi8hAZZFJb/view?usp=sharing) [TC-2](https://drive.google.com/file/d/149GtTxoVJOO1NlLIbtuOJTAQ14BUSKcK/view?usp=sharing)
 
 **Queue** area:
 * [TC-3](), [TC-4](), [TC-5](), [TC-5](), [TC-6](), [TC-7](), [TC-8](), [TC-9](), [TC-10](),
