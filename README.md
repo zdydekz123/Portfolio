@@ -73,3 +73,6 @@ Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id
 [Technical documentation](https://drive.google.com/file/d/1gw0WMzUKmK033jaAjn6BX6mpxkXue_IV/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
 
 Reported test cases in TestRail:
+
+Queue area:
+* [Bug 1](https://drive.google.com/file/d/1FS3vIWABMrop-caJvERrxa5U5JIelUuz/view?usp=sharing) * [Bug 1](https://drive.google.com/file/d/1FS3vIWABMrop-caJvERrxa5U5JIelUuz/view?usp=sharing)
