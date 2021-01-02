@@ -70,7 +70,7 @@ Test cases for **facebook.com** in TestRail:
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) **(in progress of test cycle)**
 
-* [Technical documentation](https://drive.google.com/file/d/1gw0WMzUKmK033jaAjn6BX6mpxkXue_IV/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
+* [Technical documentation](https://drive.google.com/file/d/1aahHOrVgFQ66b4ta4kfbC4pvOZ2UVQmr/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
 
 
 Reported test cases in TestRail:
@@ -81,3 +81,7 @@ Reported test cases in TestRail:
 **"Queue"** subpage:
 * [TC-3](https://drive.google.com/file/d/1ZipfWHMcAE3W14u0HarcGhDj1xZyPwkG/view?usp=sharing), [TC-4](https://drive.google.com/file/d/1ntUaqrrwsTvdK_qWH_a2I48vwWWGR8-M/view?usp=sharing), [TC-5](https://drive.google.com/file/d/1LdmRZ-0_2zWbWZdEtFzEf49sKvdkaE4A/view?usp=sharing), [TC-6](https://drive.google.com/file/d/19p2Z5Xmfi6G-WW2a34c6t506ch87ouYi/view?usp=sharing), [TC-7](https://drive.google.com/file/d/1b5H05d_jdJIY7vXTDTXyv64PdVBSZYp8/view?usp=sharing), [TC-8](https://drive.google.com/file/d/1gFUVOimLi2-bk-LI03bean1eLo5oNN24/view?usp=sharing), [TC-9](https://drive.google.com/file/d/1xeSlr8IKZtiUJV92iNOlWgpdJIdqDZrV/view?usp=sharing), [TC-10](https://drive.google.com/file/d/1OOFWS5qi_DEyikAqv8F6EZKLy8k84wpD/view?usp=sharing), [TC-11](https://drive.google.com/file/d/1cgnFFMSAGCEd6wwvl8259xOuVfs5c_s9/view?usp=sharing),
 * [TC-12](https://drive.google.com/file/d/1jcr0cSTHfZjnVl9o8m0UbC550RjB2RDe/view?usp=sharing), [TC-13](https://drive.google.com/file/d/1I4wn5mUaIQ4y6k-7JLnaKMpogpRMX7C0/view?usp=sharing), [TC-14](https://drive.google.com/file/d/105I0ag5mUL7yZY1IvwgCQUoiCDPqBPm1/view?usp=sharing), [TC-15](https://drive.google.com/file/d/1Jvh08MBO8GPfS2v_b-_qE1G0zJowyiXB/view?usp=sharing), [TC-16](https://drive.google.com/file/d/11lvlD3pVZEG2__YbHXYa_Ip7LH6syaBY/view?usp=sharing), [TC-17](https://drive.google.com/file/d/1KcIfsDqJM8md1fFzi4p_fK6iZQvXOvuX/view?usp=sharing), [TC-18](https://drive.google.com/file/d/1ZgNqbg3hypQbuRmURBGL6pgrIxZB2pG1/view?usp=sharing), [TC-19](https://drive.google.com/file/d/1zZDYDszME60tisdnwHd0O3Sg1ZCKqQY6/view?usp=sharing), [TC-20](https://drive.google.com/file/d/1l-ZVMQ6qi7CKNXpPktJ6PrMLkj6-tUXD/view?usp=sharing).
+
+
+**Episodes** subpage:
+* [TC-21](https://drive.google.com/file/d/1z1S5hGg_TPLPrxlRN3PVOphG3k9vaqao/view?usp=sharing), [TC-22](https://drive.google.com/file/d/1_Mq-HkyuYkAWg0J1n7ug_9jA3cRXmI3W/view?usp=sharing), [TC-23](https://drive.google.com/file/d/1QwLi0bjWrYmrsKFAeelbzZOEK8vpIXPx/view?usp=sharing), [TC-24](https://drive.google.com/file/d/1l7iAxcSpcEY3U1FYV_mso1O7KwfWNdSr/view?usp=sharing), [TC-25](https://drive.google.com/file/d/17QreKcuR5ZqM4Sk11-mdUoG1CWk-2A-l/view?usp=sharing), [TC-26](https://drive.google.com/file/d/1dDho8BQzQpamTyTYY0qUkieobh0oy76K/view?usp=sharing)
