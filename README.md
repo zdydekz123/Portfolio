@@ -85,3 +85,6 @@ Reported test cases in TestRail:
 
 **Episodes** subpage:
 * [TC-21](https://drive.google.com/file/d/1z1S5hGg_TPLPrxlRN3PVOphG3k9vaqao/view?usp=sharing), [TC-22](https://drive.google.com/file/d/1_Mq-HkyuYkAWg0J1n7ug_9jA3cRXmI3W/view?usp=sharing), [TC-23](https://drive.google.com/file/d/1QwLi0bjWrYmrsKFAeelbzZOEK8vpIXPx/view?usp=sharing), [TC-24](https://drive.google.com/file/d/1l7iAxcSpcEY3U1FYV_mso1O7KwfWNdSr/view?usp=sharing), [TC-25](https://drive.google.com/file/d/17QreKcuR5ZqM4Sk11-mdUoG1CWk-2A-l/view?usp=sharing), [TC-26](https://drive.google.com/file/d/1dDho8BQzQpamTyTYY0qUkieobh0oy76K/view?usp=sharing)
+
+**Subscriptions** subpage:
+* [TC-27](https://drive.google.com/file/d/1ijwB8mx7kA5aNIT3L0NDbsk8ssRBr0pj/view?usp=sharing), [TC-28](https://drive.google.com/file/d/1-tEwBcFy7yUpyaf8zITKHKKCFO9irUM5/view?usp=sharing), [TC-29](https://drive.google.com/file/d/1N4_aMt-okCLxY_oegznE_hHbS6mlBxvk/view?usp=sharing), [TC-30](https://drive.google.com/file/d/1nW67PMWZ7XviX2zMJ2KmgZVelQJqjq-6/view?usp=sharing), [TC-31](https://drive.google.com/file/d/1McKFkP-9S0jgZzHnuK2b5JqiRBUX2ZFd/view?usp=sharing)
