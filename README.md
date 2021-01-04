@@ -88,3 +88,6 @@ Reported test cases in TestRail:
 
 **Subscriptions** subpage:
 * [TC-27](https://drive.google.com/file/d/1ijwB8mx7kA5aNIT3L0NDbsk8ssRBr0pj/view?usp=sharing), [TC-28](https://drive.google.com/file/d/1-tEwBcFy7yUpyaf8zITKHKKCFO9irUM5/view?usp=sharing), [TC-29](https://drive.google.com/file/d/1P9l6GiLaU5Gqm8ub4T_DsOP99hkzUrh5/view?usp=sharing), [TC-30](https://drive.google.com/file/d/1Jo-kiWSrnoxxW9-ZyJLVQxIWG3yk46fv/view?usp=sharing), [TC-31](https://drive.google.com/file/d/1SjpYDV11Qbf_46z5zCGtpb1WAnSGwHD2/view?usp=sharing)
+
+**Downloaded** subpage:
+* [TC-32](https://drive.google.com/file/d/1t5KN--XXvnd3vwHdp8Ewf9udVJk6s8o5/view?usp=sharing), [TC-33](https://drive.google.com/file/d/18cH0aLLm9b2I0YVd5H3WOueraaMZ-2Zc/view?usp=sharing), [TC-34](https://drive.google.com/file/d/1yWOu5GR-1sNaOPtRkj2yYYrW6sfUF6CF/view?usp=sharing), [TC-35](https://drive.google.com/file/d/1BrlZk0SwkcojWrDMp8dtjq2UNjep9urR/view?usp=sharing)
