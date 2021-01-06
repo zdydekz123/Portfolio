@@ -97,3 +97,7 @@ Reported test cases in TestRail:
 
 **Add Podcasts** subpage:
 * [TC-41](https://drive.google.com/file/d/1WRhAscy0KXxyzU7KtBxDBWydzbVHNYrG/view?usp=sharing), [TC-42](https://drive.google.com/file/d/1uh5Bdq7CkcImNw4FSH-_ygYiOoAu1JTE/view?usp=sharing), [TC-43](https://drive.google.com/file/d/1JdZz2GMImHlTdgOw0QP4UWOCdCqSDLIP/view?usp=sharing), [TC-44](https://drive.google.com/file/d/1y-bfsrv45JYui7HjPdcmRkaBkjgdzLFf/view?usp=sharing), [TC-45](https://drive.google.com/file/d/1-lI4IrOcU-jhB9aVqWhPTZ9MPwrj4Mvs/view?usp=sharing), [TC-46](https://drive.google.com/file/d/1vCfgr3RjR5MoX2totIqeLK-NFwjRiHZ_/view?usp=sharing), [TC-47](https://drive.google.com/file/d/10qw_QfCGmaGATmyg2s-NvQ8kixvwZZhj/view?usp=sharing), [TC-48](https://drive.google.com/file/d/1IiP479MoFjjfu-F6CSu1vOhH-N0iWIHw/view?usp=sharing)
+
+
+**Visible subscribed podcasts on navigation menu** section:
+* [TC-49](https://drive.google.com/file/d/1e5_RdASdSB2SqRhbDPMNAYiB3yB-rJg_/view?usp=sharing)
