@@ -70,7 +70,7 @@ Test cases for **facebook.com** in TestRail:
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) **(in progress of test cycle)**
 
-* [Technical documentation](https://drive.google.com/file/d/11UFbqsPC7GxuWXTj38l7SbbbQTp0cMvs/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
+* [Technical documentation](https://drive.google.com/file/d/1iKb-daDV48aco42bhiRktwYxdk4WJuI-/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
 
 
 Reported test cases in TestRail:
@@ -91,3 +91,6 @@ Reported test cases in TestRail:
 
 **Downloaded** subpage:
 * [TC-32](https://drive.google.com/file/d/1t5KN--XXvnd3vwHdp8Ewf9udVJk6s8o5/view?usp=sharing), [TC-33](https://drive.google.com/file/d/18cH0aLLm9b2I0YVd5H3WOueraaMZ-2Zc/view?usp=sharing), [TC-34](https://drive.google.com/file/d/1yWOu5GR-1sNaOPtRkj2yYYrW6sfUF6CF/view?usp=sharing), [TC-35](https://drive.google.com/file/d/1BrlZk0SwkcojWrDMp8dtjq2UNjep9urR/view?usp=sharing)
+
+**Playback history** subpage:
+* [TC-36](https://drive.google.com/file/d/1CVsw5pKeLOKY3yKUV7xBWxob8C4AhcYN/view?usp=sharing), [TC-37](https://drive.google.com/file/d/1blSlS9w7y1jJnx4OxZv6Ge1fPMoVQVe3/view?usp=sharing), [TC-38](https://drive.google.com/file/d/19V3um8ZJkDUoERuajAr6aH7YpyOGcrtW/view?usp=sharing), [TC-39](https://drive.google.com/file/d/110DeSJlKFirOA0BBMAXCIOIEFwyGH1yt/view?usp=sharing), [TC-40](https://drive.google.com/file/d/1My1Fi47IxNpHUIrWU2sj6yeUiCHK0fPy/view?usp=sharing)
