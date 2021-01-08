@@ -84,20 +84,20 @@ Reported test cases in TestRail:
 
 
 **Episodes** subpage:
-* [TC-21](), [TC-22](), [TC-23](), [TC-24](), [TC-25](), [TC-26]()
+* [TC-21](https://drive.google.com/file/d/1CDBxzag072Rrtfj3dRDYkm0gACuqIU6K/view?usp=sharing), [TC-22](https://drive.google.com/file/d/1Cl0ip-Mw0QNkkzejG9uKL3MQ75uiZyo6/view?usp=sharing), [TC-23](https://drive.google.com/file/d/1qdz-M-BWXfW8Uxe_ThR23NKxi-y-RPW1/view?usp=sharing), [TC-24](https://drive.google.com/file/d/1YLevpVy7Q8ycxMXJum-xLinAuPDFN5s5/view?usp=sharing), [TC-25](https://drive.google.com/file/d/1b0MySvILFE43Lf06q_sYDGUgzjVjh8b7/view?usp=sharing), [TC-26](https://drive.google.com/file/d/1sEMZlWHBnCldhWfHlCvW52uE1N6eicDI/view?usp=sharing)
 
 **Subscriptions** subpage:
-* [TC-27](), [TC-28](), [TC-29](), [TC-30](), [TC-31]()
+* [TC-27](https://drive.google.com/file/d/1Az4z-Ehs2LTK2SasxoZNN2jIvUxicQ9q/view?usp=sharing), [TC-28](https://drive.google.com/file/d/1QRC2e32_2EPIMAg2uFtuOn1in6wjSN1c/view?usp=sharing), [TC-29](https://drive.google.com/file/d/1rI5koWl1zAMRdA83mK3zkzINs-8u8HoS/view?usp=sharing), [TC-30](https://drive.google.com/file/d/12n-Hz8dhrDociDONatUaYYpbwII6PzOF/view?usp=sharing), [TC-31](https://drive.google.com/file/d/1ToQohwCzEeiH3gFTUQnYkL18cbNMjWiv/view?usp=sharing)
 
 **Downloaded** subpage:
-* [TC-32](), [TC-33](), [TC-34](), [TC-35]()
+* [TC-32](https://drive.google.com/file/d/1HorBZ0u0Kt3xtfB30iMyM_J8kk_RRDic/view?usp=sharing), [TC-33](https://drive.google.com/file/d/18Z5och9j98VtwSkkDTzRGU5yv6UMuHE7/view?usp=sharing), [TC-34](https://drive.google.com/file/d/1ykC0muyA4jxPRUIhRyvp47hjHKhWS97h/view?usp=sharing), [TC-35](https://drive.google.com/file/d/1sKP-TyYYOA6idoekmVEHva4vqpQuKXWx/view?usp=sharing)
 
 **Playback history** subpage:
-* [TC-36](), [TC-37](), [TC-38](), [TC-39](), [TC-40]()
+* [TC-36](https://drive.google.com/file/d/1nI4Urkin28TJWSfLjR01L8WNHGSxg4Tw/view?usp=sharing), [TC-37](https://drive.google.com/file/d/1HkWy185ZozNP4-JwTemSKcF11RO6eiNL/view?usp=sharing), [TC-38](https://drive.google.com/file/d/1Omu3K51eFL5ypiBRS_CFKh3bfkL-oDuA/view?usp=sharing), [TC-39](https://drive.google.com/file/d/1Yf8MVVHySYDy_8QyaikcFrE-bD2mNILY/view?usp=sharing), [TC-40](https://drive.google.com/file/d/16rzn-gzvXZNOrgwnkpLlrZh6EqWEIMlb/view?usp=sharing)
 
 **Add Podcasts** subpage:
-* [TC-41](), [TC-42](), [TC-43](), [TC-44](), [TC-45](), [TC-46](), [TC-47](), [TC-48]()
+* [TC-41](https://drive.google.com/file/d/1HDwlU2j7IcCQ_hJP2LFYkYcewrf94nfH/view?usp=sharing), [TC-42](https://drive.google.com/file/d/1Njzi1ftNPYm1EH1fv0TYmw3xE_N9Vk9g/view?usp=sharing), [TC-43](https://drive.google.com/file/d/1tLU4whYpKw2vbC8ZG1j6san99BkOuoC2/view?usp=sharing), [TC-44](https://drive.google.com/file/d/1vFjrAdyy95-oDAW4p2t4NhCQ5NWUQrgZ/view?usp=sharing), [TC-45](https://drive.google.com/file/d/1ULnWJb_MDN51dvV7PMoBG8c0cKrn9-80/view?usp=sharing), [TC-46](https://drive.google.com/file/d/1BOoEJMr9ozgNAomsal_jS12yVYVD1-7s/view?usp=sharing), [TC-47](https://drive.google.com/file/d/19xTpDtHO6A4nl3OCOIZroJX46EbFq8vC/view?usp=sharing), [TC-48](https://drive.google.com/file/d/1XmJ1KP3YaIgtq_A78HVF4tUdRok_7tRQ/view?usp=sharing)
 
 
 **Subscribed podcasts visible on navigation menu** section:
-* [TC-49]()
+* [TC-49](https://drive.google.com/file/d/16rDzIUkO0UIpMacmi9KPs4_ZdtHVXVKE/view?usp=sharing)
