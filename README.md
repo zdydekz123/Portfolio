@@ -68,36 +68,36 @@ Test cases for **facebook.com** in TestRail:
 * [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
 
 # My project
-Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) **(in progress of test cycle)**
+Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) **(pending)**
 
-* [Technical documentation](https://drive.google.com/file/d/1hIBykGotKVPFwEiaqvvyPW9jyV6VHnKc/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
+* [Technical documentation](https://drive.google.com/file/d/1Cc8PvVwzSSQvzPdFN2O0Mq8iDAvbwWOP/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
 
 
 Reported test cases in TestRail:
 
 **Home page** area:
-* [TC-1](https://drive.google.com/file/d/1W0rDEXr3Am52szgLb28vZOJi8hAZZFJb/view?usp=sharing), [TC-2](https://drive.google.com/file/d/149GtTxoVJOO1NlLIbtuOJTAQ14BUSKcK/view?usp=sharing)
+* [TC-1](https://drive.google.com/file/d/1c29stoRD0UTRAI2XFx_kQT7RonVAl_XC/view?usp=sharing), [TC-2](https://drive.google.com/file/d/14wO0ziz4eBhL5A0qTcHIaptrbzoPsjCA/view?usp=sharing)
 
 **Queue** subpage:
-* [TC-3](https://drive.google.com/file/d/10TiJxY1OfumfSk38N6Xuif8J9oEiOAJl/view?usp=sharing), [TC-4](https://drive.google.com/file/d/1fq0FlbyWEhl8xcgNp61YWdWzpcxUzNvk/view?usp=sharing), [TC-5](https://drive.google.com/file/d/1NTBgCtQ4K2xIaSx5Ag22QkgbI3e-pckZ/view?usp=sharing), [TC-6](https://drive.google.com/file/d/1ksGnEfQFDCX9Kw_RChde9ohRVRk6DmRS/view?usp=sharing), [TC-7](https://drive.google.com/file/d/1FsBnbh6Q0KUHK4Yeu29tiel1-xvypJhS/view?usp=sharing), [TC-8](https://drive.google.com/file/d/1S_8NVzwIYI1MnBGVWVnXQwzBQ8wWU9fj/view?usp=sharing), [TC-9](https://drive.google.com/file/d/1aFQ_8S4RzCXb_gVw_PWF6U3rWMMaGU7I/view?usp=sharing), [TC-10](https://drive.google.com/file/d/1eAQVqSrPWuPjenu688bptMDSrsVoggq7/view?usp=sharing), [TC-11](https://drive.google.com/file/d/1cgnFFMSAGCEd6wwvl8259xOuVfs5c_s9/view?usp=sharing),
-* [TC-12](https://drive.google.com/file/d/1jcr0cSTHfZjnVl9o8m0UbC550RjB2RDe/view?usp=sharing), [TC-13](https://drive.google.com/file/d/1I4wn5mUaIQ4y6k-7JLnaKMpogpRMX7C0/view?usp=sharing), [TC-14](https://drive.google.com/file/d/105I0ag5mUL7yZY1IvwgCQUoiCDPqBPm1/view?usp=sharing), [TC-15](https://drive.google.com/file/d/1Jvh08MBO8GPfS2v_b-_qE1G0zJowyiXB/view?usp=sharing), [TC-16](https://drive.google.com/file/d/11lvlD3pVZEG2__YbHXYa_Ip7LH6syaBY/view?usp=sharing), [TC-17](https://drive.google.com/file/d/1KcIfsDqJM8md1fFzi4p_fK6iZQvXOvuX/view?usp=sharing), [TC-18](https://drive.google.com/file/d/1ZgNqbg3hypQbuRmURBGL6pgrIxZB2pG1/view?usp=sharing), [TC-19](https://drive.google.com/file/d/1zZDYDszME60tisdnwHd0O3Sg1ZCKqQY6/view?usp=sharing), [TC-20](https://drive.google.com/file/d/1l-ZVMQ6qi7CKNXpPktJ6PrMLkj6-tUXD/view?usp=sharing).
+* [TC-3](https://drive.google.com/file/d/1CVebEDTbTO3xzx4aWBGLNST8-hc9Gc1c/view?usp=sharing), [TC-4](https://drive.google.com/file/d/1x94s2XeRmozl2FZo3ljSn2oIpyY1nEIx/view?usp=sharing), [TC-5](https://drive.google.com/file/d/1PCfcUMEL6_cRSxbsqSjIReFLBrX0-LFB/view?usp=sharing), [TC-6](https://drive.google.com/file/d/1TFOpekTqj6BIl_rOhWOl3sG-NSnJnBSe/view?usp=sharing), [TC-7](https://drive.google.com/file/d/1uLnsDW7-LqR3P3ZJgw29iHvgSR_ZF1y1/view?usp=sharing), [TC-8](https://drive.google.com/file/d/10qXyf1qaDdKPmQzxnnDYGLZilH00BFds/view?usp=sharing), [TC-9](https://drive.google.com/file/d/1h5xmdCArezccCBczN6u5XdSD4ZJKc1iu/view?usp=sharing), [TC-10](https://drive.google.com/file/d/1-4E_hyrIYySSxVltLnbbXPRwTAW1M0FP/view?usp=sharing), [TC-11](https://drive.google.com/file/d/1TYB8qPnQtnMNfVAqByno3Y95Hz1L0Zll/view?usp=sharing),
+* [TC-12](https://drive.google.com/file/d/1JQkRXip2DZrcS9XUWZGBl131jv3Ktkby/view?usp=sharing), [TC-13](https://drive.google.com/file/d/1xhmSSq4yr2tu4hCraOA-AwXBjF1MgAUi/view?usp=sharing), [TC-14](https://drive.google.com/file/d/1eAkOp_50XeCT7Hb5L8PtWu9-U2ZLmWFb/view?usp=sharing), [TC-15](https://drive.google.com/file/d/180raIpSe239AJ2JfijI7ZfruN39l_A6-/view?usp=sharing), [TC-16](https://drive.google.com/file/d/16jyyoFnTPr8HkADMtCnA4juDKlCtBRIe/view?usp=sharing), [TC-17](https://drive.google.com/file/d/18kJi3_0EupwdIik1QO6LBRH23bp01tB9/view?usp=sharing), [TC-18](https://drive.google.com/file/d/1oJtf4K1cXWNpkGCQsbmvADIWEriA5m1-/view?usp=sharing), [TC-19](https://drive.google.com/file/d/1ksoL7FeigI525jXfX6eVEDHLvW2mhqbf/view?usp=sharing), [TC-20](https://drive.google.com/file/d/1eD-ajnzq4ipWKMzFT90CTIWdBdWYm4HY/view?usp=sharing).
 
 
 **Episodes** subpage:
-* [TC-21](https://drive.google.com/file/d/1z1S5hGg_TPLPrxlRN3PVOphG3k9vaqao/view?usp=sharing), [TC-22](https://drive.google.com/file/d/1_Mq-HkyuYkAWg0J1n7ug_9jA3cRXmI3W/view?usp=sharing), [TC-23](https://drive.google.com/file/d/1QwLi0bjWrYmrsKFAeelbzZOEK8vpIXPx/view?usp=sharing), [TC-24](https://drive.google.com/file/d/1l7iAxcSpcEY3U1FYV_mso1O7KwfWNdSr/view?usp=sharing), [TC-25](https://drive.google.com/file/d/17QreKcuR5ZqM4Sk11-mdUoG1CWk-2A-l/view?usp=sharing), [TC-26](https://drive.google.com/file/d/1dDho8BQzQpamTyTYY0qUkieobh0oy76K/view?usp=sharing)
+* [TC-21](), [TC-22](), [TC-23](), [TC-24](), [TC-25](), [TC-26]()
 
 **Subscriptions** subpage:
-* [TC-27](https://drive.google.com/file/d/1ijwB8mx7kA5aNIT3L0NDbsk8ssRBr0pj/view?usp=sharing), [TC-28](https://drive.google.com/file/d/1-tEwBcFy7yUpyaf8zITKHKKCFO9irUM5/view?usp=sharing), [TC-29](https://drive.google.com/file/d/1P9l6GiLaU5Gqm8ub4T_DsOP99hkzUrh5/view?usp=sharing), [TC-30](https://drive.google.com/file/d/1Jo-kiWSrnoxxW9-ZyJLVQxIWG3yk46fv/view?usp=sharing), [TC-31](https://drive.google.com/file/d/1SjpYDV11Qbf_46z5zCGtpb1WAnSGwHD2/view?usp=sharing)
+* [TC-27](), [TC-28](), [TC-29](), [TC-30](), [TC-31]()
 
 **Downloaded** subpage:
-* [TC-32](https://drive.google.com/file/d/1t5KN--XXvnd3vwHdp8Ewf9udVJk6s8o5/view?usp=sharing), [TC-33](https://drive.google.com/file/d/18cH0aLLm9b2I0YVd5H3WOueraaMZ-2Zc/view?usp=sharing), [TC-34](https://drive.google.com/file/d/1yWOu5GR-1sNaOPtRkj2yYYrW6sfUF6CF/view?usp=sharing), [TC-35](https://drive.google.com/file/d/1BrlZk0SwkcojWrDMp8dtjq2UNjep9urR/view?usp=sharing)
+* [TC-32](), [TC-33](), [TC-34](), [TC-35]()
 
 **Playback history** subpage:
-* [TC-36](https://drive.google.com/file/d/1CVsw5pKeLOKY3yKUV7xBWxob8C4AhcYN/view?usp=sharing), [TC-37](https://drive.google.com/file/d/1blSlS9w7y1jJnx4OxZv6Ge1fPMoVQVe3/view?usp=sharing), [TC-38](https://drive.google.com/file/d/19V3um8ZJkDUoERuajAr6aH7YpyOGcrtW/view?usp=sharing), [TC-39](https://drive.google.com/file/d/110DeSJlKFirOA0BBMAXCIOIEFwyGH1yt/view?usp=sharing), [TC-40](https://drive.google.com/file/d/1My1Fi47IxNpHUIrWU2sj6yeUiCHK0fPy/view?usp=sharing)
+* [TC-36](), [TC-37](), [TC-38](), [TC-39](), [TC-40]()
 
 **Add Podcasts** subpage:
-* [TC-41](https://drive.google.com/file/d/1WRhAscy0KXxyzU7KtBxDBWydzbVHNYrG/view?usp=sharing), [TC-42](https://drive.google.com/file/d/1uh5Bdq7CkcImNw4FSH-_ygYiOoAu1JTE/view?usp=sharing), [TC-43](https://drive.google.com/file/d/1JdZz2GMImHlTdgOw0QP4UWOCdCqSDLIP/view?usp=sharing), [TC-44](https://drive.google.com/file/d/1y-bfsrv45JYui7HjPdcmRkaBkjgdzLFf/view?usp=sharing), [TC-45](https://drive.google.com/file/d/1-lI4IrOcU-jhB9aVqWhPTZ9MPwrj4Mvs/view?usp=sharing), [TC-46](https://drive.google.com/file/d/1vCfgr3RjR5MoX2totIqeLK-NFwjRiHZ_/view?usp=sharing), [TC-47](https://drive.google.com/file/d/10qw_QfCGmaGATmyg2s-NvQ8kixvwZZhj/view?usp=sharing), [TC-48](https://drive.google.com/file/d/1IiP479MoFjjfu-F6CSu1vOhH-N0iWIHw/view?usp=sharing)
+* [TC-41](), [TC-42](), [TC-43](), [TC-44](), [TC-45](), [TC-46](), [TC-47](), [TC-48]()
 
 
 **Subscribed podcasts visible on navigation menu** section:
-* [TC-49](https://drive.google.com/file/d/1e5_RdASdSB2SqRhbDPMNAYiB3yB-rJg_/view?usp=sharing)
+* [TC-49]()
