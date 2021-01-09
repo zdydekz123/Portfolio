@@ -69,12 +69,12 @@ Test cases for **facebook.com** in TestRail:
 
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) **(pending)**
-**Testing environment:**
-* mobile phone model: Xiaomi Redmi Note 8
-* android version: 9 PKQ1.190616.001
 
 * [Technical documentation](https://drive.google.com/file/d/1AiCe9oKd3-7pmWiPEhP4LhnNu4Q_Zr0D/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
 
+**Testing environment:**
+* mobile phone model: Xiaomi Redmi Note 8
+* android version: 9 PKQ1.190616.001
 
 Reported test cases in TestRail:
 
