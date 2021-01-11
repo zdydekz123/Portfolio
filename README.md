@@ -2,10 +2,10 @@
 # About me
 My name is Milosz. I've been interesting about testing software 6 month ago. I've liked this direction and started to find proper materials over deeper. I decided to took part in course of SDA about manual testing and post graduate directed to automation testing. In spare time I like play in games on console and hanging out with close friends as well. I'm trying increase my abilities in testing and seeking new solution to how to solve a sort of issues.
 # Tools
-* **Programming languages and frameworks** - Java (basics), Python (basics), Javascript (basics), CSS3, HTML5
+* **Programming languages and frameworks** - Java , Python, Javascript, CSS3, HTML5
 * **Databases** - SQL
-* **Operating system** - Windows, Linux (in progress developing) 
-* **Known Management technologies** - Scrum, Agile, GIT
+* **Operating system** - Windows, Linux (bash basics, linux commands) 
+* **Known Management technologies** - Scrum, Agile, GIT, BDD
 * **Tools for testing management** - Jira
 * **Tools for test cases management** - TestRail
 # Courses and Bootcamps
