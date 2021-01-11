@@ -68,13 +68,13 @@ Test cases for **facebook.com** in TestRail:
 * [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
 
 # My project
-Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod) **(pending)**
+Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod). **(pending)**
 
 * [Technical documentation](https://drive.google.com/file/d/1AiCe9oKd3-7pmWiPEhP4LhnNu4Q_Zr0D/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
 
 **Testing environment:**
-* mobile phone model: Xiaomi Redmi Note 8
-* android version: 9 PKQ1.190616.001
+* mobile phone model: Xiaomi Redmi Note 8,
+* android version: 9 PKQ1.190616.001.
 
 Reported [test cases](https://drive.google.com/file/d/1tmjYLoyIez536NtrmuQPt3-FAgtEXD8e/view?usp=sharing) in TestRail:
 
