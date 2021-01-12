@@ -68,17 +68,15 @@ Test cases for **facebook.com** in TestRail:
 * [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
 
 # My project
-Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod). **(pending)**
+Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod). **(pending)**<br /><br />
 
-* [Technical documentation](https://drive.google.com/file/d/1AiCe9oKd3-7pmWiPEhP4LhnNu4Q_Zr0D/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.
-
+* [Technical documentation](https://drive.google.com/file/d/1AiCe9oKd3-7pmWiPEhP4LhnNu4Q_Zr0D/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.<br /><br />
 
 **Testing environment:**
 * mobile phone model: Xiaomi Redmi Note 8,
-* android version: 9 PKQ1.190616.001.
+* android version: 9 PKQ1.190616.001.<br /><br /><br />
 
-
-Reported [test cases](https://drive.google.com/file/d/1tmjYLoyIez536NtrmuQPt3-FAgtEXD8e/view?usp=sharing) in TestRail:
+Reported [test cases](https://drive.google.com/file/d/1tmjYLoyIez536NtrmuQPt3-FAgtEXD8e/view?usp=sharing) in TestRail:<br />
 
 **Home page** area:
 * [TC-1](https://drive.google.com/file/d/1c29stoRD0UTRAI2XFx_kQT7RonVAl_XC/view?usp=sharing), [TC-2](https://drive.google.com/file/d/1-yWv3EDGzgmmfBm1GUeWXd-6kUqTwJGK/view?usp=sharing).
@@ -113,7 +111,7 @@ Reported [test cases](https://drive.google.com/file/d/1tmjYLoyIez536NtrmuQPt3-FA
 * [TC-71](https://drive.google.com/file/d/1m1WiqfNQK_udMgYU8ud9fDRa60beHL1-/view?usp=sharing), [TC-72](https://drive.google.com/file/d/1pLBokVwnROhhiZHSUdHUfY8Ar4T0NX7h/view?usp=sharing), [TC-73](https://drive.google.com/file/d/1YD2rdkeRcRoN3JS4HqDFALuS9DYiWeL9/view?usp=sharing), [TC-74](https://drive.google.com/file/d/1b2y0ga7b0UCGZBXVfv6mEl76niPo56-K/view?usp=sharing), [TC-75](https://drive.google.com/file/d/1prc93Vx367KzdF-OKkh0QHW3dAATTIJD/view?usp=sharing), [TC-76](https://drive.google.com/file/d/1GLB8PIi9UtP2vP23LS8-NZq67QitvCGk/view?usp=sharing), [TC-77](https://drive.google.com/file/d/1jTWGy_5YsS6MOTGLhNXWE60s08ofuty6/view?usp=sharing), [TC-78](https://drive.google.com/file/d/1-Wj86K5biyDYty2mda2VhbuassiFW4V1/view?usp=sharing),[TC-79](https://drive.google.com/file/d/1RDcUjp-lYFLS8gyvAgLgor-TmZHXJOQY/view?usp=sharing) [TC-80](https://drive.google.com/file/d/1TBIm-HAHB82Pd_m7m7xjhrO0h6stZO0J/view?usp=sharing), [TC-81](https://drive.google.com/file/d/1DRLY5deEqZRrlN1bNAQBt-DR4Rg0yNWm/view?usp=sharing), [TC-82](https://drive.google.com/file/d/164WbswruOMqMAibItIJOK5tTPirWCXVi/view?usp=sharing), [TC-83](https://drive.google.com/file/d/1hKRATXhdiW3jcpFzQEK_qQ49HLwYIOPg/view?usp=sharing).
 
 **The floating playback podcast engine**:
-* [TC-84](https://drive.google.com/file/d/1d5fQ--bNyScqTou0cUVlEzLdBOZd5fVY/view?usp=sharing), [TC-85](https://drive.google.com/file/d/17w-uLhRbvN3N03V18zKHlyrmhESf2DPL/view?usp=sharing), [TC-86](https://drive.google.com/file/d/1pOuTHOGDb7_AJk96u_QN5ohyxFgElc9_/view?usp=sharing), [TC-87](https://drive.google.com/file/d/1P5v_P3VNMAq7w8BzMs32VwsoOqdSDX5W/view?usp=sharing), [TC-88](https://drive.google.com/file/d/1huJfsBAtGeacwQLw16iQ3IDvaZ3_LDHj/view?usp=sharing).<br /><br />
+* [TC-84](https://drive.google.com/file/d/1d5fQ--bNyScqTou0cUVlEzLdBOZd5fVY/view?usp=sharing), [TC-85](https://drive.google.com/file/d/17w-uLhRbvN3N03V18zKHlyrmhESf2DPL/view?usp=sharing), [TC-86](https://drive.google.com/file/d/1pOuTHOGDb7_AJk96u_QN5ohyxFgElc9_/view?usp=sharing), [TC-87](https://drive.google.com/file/d/1P5v_P3VNMAq7w8BzMs32VwsoOqdSDX5W/view?usp=sharing), [TC-88](https://drive.google.com/file/d/1huJfsBAtGeacwQLw16iQ3IDvaZ3_LDHj/view?usp=sharing).<br /><br /><br />
 Reported [bugs]() in Jira: <br />
 * [AP-2](https://drive.google.com/file/d/1KoxQn-VaG80Ss6L7cwTWnDBhV4_daXWi/view?usp=sharing)
 * [recording of a reported bug](https://streamable.com/w6rbuy)
