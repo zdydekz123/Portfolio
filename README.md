@@ -68,7 +68,7 @@ Test cases for **facebook.com** in TestRail:
 * [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
 
 # My project
-Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod). **(pending)**<br /><br />
+Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod). **(pending)**<br />
 
 * [Technical documentation](https://drive.google.com/file/d/1AiCe9oKd3-7pmWiPEhP4LhnNu4Q_Zr0D/view?usp=sharing) of **AntennaPod** mobile app to play music and sounds.<br /><br />
 
@@ -112,6 +112,7 @@ Reported [test cases](https://drive.google.com/file/d/1tmjYLoyIez536NtrmuQPt3-FA
 
 **The floating playback podcast engine**:
 * [TC-84](https://drive.google.com/file/d/1d5fQ--bNyScqTou0cUVlEzLdBOZd5fVY/view?usp=sharing), [TC-85](https://drive.google.com/file/d/17w-uLhRbvN3N03V18zKHlyrmhESf2DPL/view?usp=sharing), [TC-86](https://drive.google.com/file/d/1pOuTHOGDb7_AJk96u_QN5ohyxFgElc9_/view?usp=sharing), [TC-87](https://drive.google.com/file/d/1P5v_P3VNMAq7w8BzMs32VwsoOqdSDX5W/view?usp=sharing), [TC-88](https://drive.google.com/file/d/1huJfsBAtGeacwQLw16iQ3IDvaZ3_LDHj/view?usp=sharing).<br /><br /><br />
+
 Reported [bugs]() in Jira: <br />
 * [AP-2](https://drive.google.com/file/d/1KoxQn-VaG80Ss6L7cwTWnDBhV4_daXWi/view?usp=sharing)
 * [recording of a reported bug](https://streamable.com/w6rbuy)
