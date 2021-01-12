@@ -79,7 +79,7 @@ Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id
 Reported [test cases](https://drive.google.com/file/d/1tmjYLoyIez536NtrmuQPt3-FAgtEXD8e/view?usp=sharing) in TestRail:
 
 **Home page** area:
-* [TC-1](https://drive.google.com/file/d/1c29stoRD0UTRAI2XFx_kQT7RonVAl_XC/view?usp=sharing), [TC-2](https://drive.google.com/file/d/14wO0ziz4eBhL5A0qTcHIaptrbzoPsjCA/view?usp=sharing).
+* [TC-1](https://drive.google.com/file/d/1c29stoRD0UTRAI2XFx_kQT7RonVAl_XC/view?usp=sharing), [TC-2](https://drive.google.com/file/d/1-yWv3EDGzgmmfBm1GUeWXd-6kUqTwJGK/view?usp=sharing).
 
 **Queue** subpage:
 * [TC-3](https://drive.google.com/file/d/1CVebEDTbTO3xzx4aWBGLNST8-hc9Gc1c/view?usp=sharing), [TC-4](https://drive.google.com/file/d/1x94s2XeRmozl2FZo3ljSn2oIpyY1nEIx/view?usp=sharing), [TC-5](https://drive.google.com/file/d/1PCfcUMEL6_cRSxbsqSjIReFLBrX0-LFB/view?usp=sharing), [TC-6](https://drive.google.com/file/d/1TFOpekTqj6BIl_rOhWOl3sG-NSnJnBSe/view?usp=sharing), [TC-7](https://drive.google.com/file/d/1uLnsDW7-LqR3P3ZJgw29iHvgSR_ZF1y1/view?usp=sharing), [TC-8](https://drive.google.com/file/d/10qXyf1qaDdKPmQzxnnDYGLZilH00BFds/view?usp=sharing), [TC-9](https://drive.google.com/file/d/1h5xmdCArezccCBczN6u5XdSD4ZJKc1iu/view?usp=sharing), [TC-10](https://drive.google.com/file/d/1-4E_hyrIYySSxVltLnbbXPRwTAW1M0FP/view?usp=sharing), [TC-11](https://drive.google.com/file/d/1TYB8qPnQtnMNfVAqByno3Y95Hz1L0Zll/view?usp=sharing),
