@@ -114,5 +114,5 @@ Reported [test cases](https://drive.google.com/file/d/1tmjYLoyIez536NtrmuQPt3-FA
 * [TC-84](https://drive.google.com/file/d/1d5fQ--bNyScqTou0cUVlEzLdBOZd5fVY/view?usp=sharing), [TC-85](https://drive.google.com/file/d/17w-uLhRbvN3N03V18zKHlyrmhESf2DPL/view?usp=sharing), [TC-86](https://drive.google.com/file/d/1pOuTHOGDb7_AJk96u_QN5ohyxFgElc9_/view?usp=sharing), [TC-87](https://drive.google.com/file/d/1P5v_P3VNMAq7w8BzMs32VwsoOqdSDX5W/view?usp=sharing), [TC-88](https://drive.google.com/file/d/1huJfsBAtGeacwQLw16iQ3IDvaZ3_LDHj/view?usp=sharing).<br /><br /><br />
 
 Reported [bugs]() in Jira: <br />
-* [AP-2](https://drive.google.com/file/d/1KoxQn-VaG80Ss6L7cwTWnDBhV4_daXWi/view?usp=sharing)- detected on  TC-12 test case ([recording of a reported bug](https://streamable.com/w6rbuy))
+* [AP-2](https://drive.google.com/file/d/1KoxQn-VaG80Ss6L7cwTWnDBhV4_daXWi/view?usp=sharing) - detected on  TC-12 test case ([recording of a reported bug](https://streamable.com/w6rbuy))
 
