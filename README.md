@@ -123,7 +123,7 @@ Reported [bugs]() in Jira: <br />
 * [AP-8](https://drive.google.com/file/d/1H3RlbSlb1AuLd0EbTHqAebttYb-YbhUR/view?usp=sharing) - detected in the TC-40 test case ([recording of a reported bug](https://streamable.com/1tr9xr)).
 * [AP-9](https://drive.google.com/file/d/18oJT_zw3iobv1bqsSiIVw44zZRn3KE95/view?usp=sharing) - detected in the TC-40 test case ([recording of a reported bug](https://streamable.com/blzwgr)).
 * [AP-10](https://drive.google.com/file/d/1BlnPl1V8lfEjYQWzfRPXSv31sy78Litx/view?usp=sharing) - detected in the TC-46 test case ([recording of a reported bug](https://streamable.com/7gj0ht)).
-* [AP-11](https://drive.google.com/file/d/1E-R__BdA6qbOCW_aWcrSYATdCfpek_7-/view?usp=sharing) - detected in the TC-46 test case ([recording of a reported bug](https://streamable.com/sn6u2i)).
+* [AP-11](https://drive.google.com/file/d/1E-R__BdA6qbOCW_aWcrSYATdCfpek_7-/view?usp=sharing) - detected in the TC-59 test case ([recording of a reported bug](https://streamable.com/sn6u2i)).
 
 
 
