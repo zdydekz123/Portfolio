@@ -122,6 +122,8 @@ Reported [bugs]() in Jira: <br />
 * [AP-7](https://drive.google.com/file/d/1XtBw_tQMkFKBqRzSylhvmU7yhkyXkjJO/view?usp=sharing) - detected in the TC-34 test case ([recording of a reported bug](https://streamable.com/dy00sh)).
 * [AP-8](https://drive.google.com/file/d/1H3RlbSlb1AuLd0EbTHqAebttYb-YbhUR/view?usp=sharing) - detected in the TC-40 test case ([recording of a reported bug](https://streamable.com/1tr9xr)).
 * [AP-9](https://drive.google.com/file/d/18oJT_zw3iobv1bqsSiIVw44zZRn3KE95/view?usp=sharing) - detected in the TC-40 test case ([recording of a reported bug](https://streamable.com/blzwgr)).
+* [AP-10](https://drive.google.com/file/d/1BlnPl1V8lfEjYQWzfRPXSv31sy78Litx/view?usp=sharing) - detected in the TC-46 test case ([recording of a reported bug](https://streamable.com/7gj0ht)).
+
 
 
 
