@@ -116,21 +116,21 @@ Access to the [test cases](https://drive.google.com/file/d/1zRa6bk-ZOivSiJEoKCpJ
 
 **Reported bugs in Jira:**<br />
 Access to the [test run](https://drive.google.com/file/d/1y1tm0XRRY_SJnicBxwP2rfZiNZia4Xci/view?usp=sharing) file of AntennaPod<br /><br />
-* [AP-2](https://drive.google.com/file/d/1KoxQn-VaG80Ss6L7cwTWnDBhV4_daXWi/view?usp=sharing) - detected in the TC-12, TC-18 test case ([recording of a reported bug](https://streamable.com/w6rbuy)).
-* [AP-3](https://drive.google.com/file/d/1LcHxKNiZQGTfiJJ6iabFER9ODZhlYFbT/view?usp=sharing) - detected in the TC-17 test case ([recording of a reported bug](https://streamable.com/jog72i)).
-* [AP-4](https://drive.google.com/file/d/1YFXFCLaX7RoHdQryXA3nIyO33mhYOUQA/view?usp=sharing) - detected in the TC-29 test case ([recording of a reported bug](https://streamable.com/7kl9j4)).
-* [AP-5](https://drive.google.com/file/d/1wsKh_UgZQKtkTuhQak3xmlyH2E7gxbJy/view?usp=sharing) - detected in the TC-29 test case ([recording of a reported bug](https://streamable.com/2efknh)).
-* [AP-6](https://drive.google.com/file/d/1590wzqS5wAqDPxFDdYwnTJ39yzcbwSuf/view?usp=sharing) - detected in the TC-30 test case ([recording of a reported bug](https://streamable.com/gqoi8m)).
-* [AP-7](https://drive.google.com/file/d/1XtBw_tQMkFKBqRzSylhvmU7yhkyXkjJO/view?usp=sharing) - detected in the TC-34 test case ([recording of a reported bug](https://streamable.com/dy00sh)).
-* [AP-8](https://drive.google.com/file/d/1H3RlbSlb1AuLd0EbTHqAebttYb-YbhUR/view?usp=sharing) - detected in the TC-40 test case ([recording of a reported bug](https://streamable.com/1tr9xr)).
-* [AP-9](https://drive.google.com/file/d/18oJT_zw3iobv1bqsSiIVw44zZRn3KE95/view?usp=sharing) - detected in the TC-40 test case ([recording of a reported bug](https://streamable.com/blzwgr)).
-* [AP-10](https://drive.google.com/file/d/1BlnPl1V8lfEjYQWzfRPXSv31sy78Litx/view?usp=sharing) - detected in the TC-46 test case ([recording of a reported bug](https://streamable.com/7gj0ht)).
-* [AP-11](https://drive.google.com/file/d/1E-R__BdA6qbOCW_aWcrSYATdCfpek_7-/view?usp=sharing) - detected in the TC-59 test case ([recording of a reported bug](https://streamable.com/sn6u2i)).
-* [AP-12](https://drive.google.com/file/d/1df6VxnZWw2ClR990mzgiUev9lyrgof71/view?usp=sharing) - detected in the TC-61 test case ([recording of a reported bug](https://streamable.com/3xy1c5)).
-* [AP-13](https://drive.google.com/file/d/1mq9S2ilH2yrnD2aR4Ypruxzk-fwmUiCI/view?usp=sharing) - detected in the TC-62 test case ([recording of a reported bug](https://streamable.com/epcp29)).
-* [AP-14](https://drive.google.com/file/d/1WMpptjjpM1cqUP2JcQDyso9Lffp7TmgB/view?usp=sharing) - detected in the TC-72 test case ([recording of a reported bug](https://streamable.com/lrnqip)).
-* [AP-15](https://drive.google.com/file/d/1n7vmsjAEqRMTywMYq7wMsBSWfPvLRzfr/view?usp=sharing) - detected in the TC-77 test case ([recording of a reported bug](https://streamable.com/i0fk63)).
-* [AP-16](https://drive.google.com/file/d/1XeKV6ujmi9828-5abrcYV5lGgwAHHKbF/view?usp=sharing) - detected in the TC-77 test case as well ([recording of a reported bug](https://streamable.com/nqo3pq)).
+* [AP-2](https://drive.google.com/file/d/1KoxQn-VaG80Ss6L7cwTWnDBhV4_daXWi/view?usp=sharing) - detected in the **TC-12**, **TC-18** test case ([recording of a reported bug](https://streamable.com/w6rbuy)).
+* [AP-3](https://drive.google.com/file/d/1LcHxKNiZQGTfiJJ6iabFER9ODZhlYFbT/view?usp=sharing) - detected in the **TC-17** test case ([recording of a reported bug](https://streamable.com/jog72i)).
+* [AP-4](https://drive.google.com/file/d/1YFXFCLaX7RoHdQryXA3nIyO33mhYOUQA/view?usp=sharing) - detected in the **TC-29** test case ([recording of a reported bug](https://streamable.com/7kl9j4)).
+* [AP-5](https://drive.google.com/file/d/1wsKh_UgZQKtkTuhQak3xmlyH2E7gxbJy/view?usp=sharing) - detected in the **TC-29** test case ([recording of a reported bug](https://streamable.com/2efknh)).
+* [AP-6](https://drive.google.com/file/d/1590wzqS5wAqDPxFDdYwnTJ39yzcbwSuf/view?usp=sharing) - detected in the **TC-30** test case ([recording of a reported bug](https://streamable.com/gqoi8m)).
+* [AP-7](https://drive.google.com/file/d/1XtBw_tQMkFKBqRzSylhvmU7yhkyXkjJO/view?usp=sharing) - detected in the **TC-34** test case ([recording of a reported bug](https://streamable.com/dy00sh)).
+* [AP-8](https://drive.google.com/file/d/1H3RlbSlb1AuLd0EbTHqAebttYb-YbhUR/view?usp=sharing) - detected in the **TC-40** test case ([recording of a reported bug](https://streamable.com/1tr9xr)).
+* [AP-9](https://drive.google.com/file/d/18oJT_zw3iobv1bqsSiIVw44zZRn3KE95/view?usp=sharing) - detected in the **TC-40** test case ([recording of a reported bug](https://streamable.com/blzwgr)).
+* [AP-10](https://drive.google.com/file/d/1BlnPl1V8lfEjYQWzfRPXSv31sy78Litx/view?usp=sharing) - detected in the **TC-46** test case ([recording of a reported bug](https://streamable.com/7gj0ht)).
+* [AP-11](https://drive.google.com/file/d/1E-R__BdA6qbOCW_aWcrSYATdCfpek_7-/view?usp=sharing) - detected in the **TC-59** test case ([recording of a reported bug](https://streamable.com/sn6u2i)).
+* [AP-12](https://drive.google.com/file/d/1df6VxnZWw2ClR990mzgiUev9lyrgof71/view?usp=sharing) - detected in the **TC-61** test case ([recording of a reported bug](https://streamable.com/3xy1c5)).
+* [AP-13](https://drive.google.com/file/d/1mq9S2ilH2yrnD2aR4Ypruxzk-fwmUiCI/view?usp=sharing) - detected in the **TC-62** test case ([recording of a reported bug](https://streamable.com/epcp29)).
+* [AP-14](https://drive.google.com/file/d/1WMpptjjpM1cqUP2JcQDyso9Lffp7TmgB/view?usp=sharing) - detected in the **TC-72** test case ([recording of a reported bug](https://streamable.com/lrnqip)).
+* [AP-15](https://drive.google.com/file/d/1n7vmsjAEqRMTywMYq7wMsBSWfPvLRzfr/view?usp=sharing) - detected in the **TC-77** test case ([recording of a reported bug](https://streamable.com/i0fk63)).
+* [AP-16](https://drive.google.com/file/d/1XeKV6ujmi9828-5abrcYV5lGgwAHHKbF/view?usp=sharing) - detected in the **TC-77** test case ([recording of a reported bug](https://streamable.com/nqo3pq)).
 
 
 
