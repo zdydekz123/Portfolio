@@ -130,6 +130,7 @@ Access to the [test run](https://drive.google.com/file/d/1y1tm0XRRY_SJnicBxwP2rf
 * [AP-13](https://drive.google.com/file/d/1mq9S2ilH2yrnD2aR4Ypruxzk-fwmUiCI/view?usp=sharing) - detected in the TC-62 test case ([recording of a reported bug](https://streamable.com/epcp29)).
 * [AP-14](https://drive.google.com/file/d/1WMpptjjpM1cqUP2JcQDyso9Lffp7TmgB/view?usp=sharing) - detected in the TC-72 test case ([recording of a reported bug](https://streamable.com/lrnqip)).
 * [AP-15](https://drive.google.com/file/d/1n7vmsjAEqRMTywMYq7wMsBSWfPvLRzfr/view?usp=sharing) - detected in the TC-77 test case ([recording of a reported bug](https://streamable.com/i0fk63)).
+* [AP-16](https://drive.google.com/file/d/1XeKV6ujmi9828-5abrcYV5lGgwAHHKbF/view?usp=sharing) - detected in the TC-77 test case as well ([recording of a reported bug](https://streamable.com/nqo3pq)).
 
 
 
