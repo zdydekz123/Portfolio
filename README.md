@@ -77,7 +77,7 @@ Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id
 * android version: 9 PKQ1.190616.001.<br /><br /><br /><br />
 
 **Reported test cases in TestRail:**<br />
-Access to the [test cases](https://drive.google.com/file/d/1zRa6bk-ZOivSiJEoKCpJLvu_CHWCEI1T/view?usp=sharing) file of AntennaPod<br /><br />
+Access to the [test cases](https://drive.google.com/file/d/1jv230ZI25C4bQpNvj_wNbK_Dq0eRMKKo/view?usp=sharing) file of AntennaPod<br /><br />
 
 **Home page** area:
 * [TC-1](https://drive.google.com/file/d/1c29stoRD0UTRAI2XFx_kQT7RonVAl_XC/view?usp=sharing), [TC-2](https://drive.google.com/file/d/1-yWv3EDGzgmmfBm1GUeWXd-6kUqTwJGK/view?usp=sharing).
@@ -114,8 +114,8 @@ Access to the [test cases](https://drive.google.com/file/d/1zRa6bk-ZOivSiJEoKCpJ
 **The floating playback podcast engine**:
 * [TC-84](https://drive.google.com/file/d/1d5fQ--bNyScqTou0cUVlEzLdBOZd5fVY/view?usp=sharing), [TC-85](https://drive.google.com/file/d/17w-uLhRbvN3N03V18zKHlyrmhESf2DPL/view?usp=sharing), [TC-86](https://drive.google.com/file/d/1pOuTHOGDb7_AJk96u_QN5ohyxFgElc9_/view?usp=sharing), [TC-87](https://drive.google.com/file/d/1P5v_P3VNMAq7w8BzMs32VwsoOqdSDX5W/view?usp=sharing), [TC-88](https://drive.google.com/file/d/1huJfsBAtGeacwQLw16iQ3IDvaZ3_LDHj/view?usp=sharing).<br /><br /><br />
 
-**Reported bugs in Jira:**<br />
-Access to the [test run](https://drive.google.com/file/d/1y1tm0XRRY_SJnicBxwP2rfZiNZia4Xci/view?usp=sharing) file of AntennaPod<br /><br />
+**Reported [bugs](https://drive.google.com/file/d/1tFAu0ok62vHjEAVUPy3-F3DANdojUdiK/view?usp=sharing) in Jira:**<br />
+Access to the [test run](https://drive.google.com/file/d/1Jr56yiWqAfOpo9Y9D6x1YO0kEFG2zux0/view?usp=sharing) file of AntennaPod<br /><br />
 * [AP-2](https://drive.google.com/file/d/1KoxQn-VaG80Ss6L7cwTWnDBhV4_daXWi/view?usp=sharing) - detected in the **TC-12**, **TC-18** test case ([recording of a reported bug](https://streamable.com/w6rbuy)).
 * [AP-3](https://drive.google.com/file/d/1LcHxKNiZQGTfiJJ6iabFER9ODZhlYFbT/view?usp=sharing) - detected in the **TC-17** test case ([recording of a reported bug](https://streamable.com/jog72i)).
 * [AP-4](https://drive.google.com/file/d/1YFXFCLaX7RoHdQryXA3nIyO33mhYOUQA/view?usp=sharing) - detected in the **TC-29** test case ([recording of a reported bug](https://streamable.com/7kl9j4)).
