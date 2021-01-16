@@ -12,7 +12,7 @@ My name is Milosz. I've been interesting about testing software 6 month ago. I'v
 * **[Software Development Academy](https://sdacademy.pl)** - Software tester
 
 # Books
-* R.Smilgin - Zawód tester (under development)
+* R.Smilgin - Zawód tester
 * A.Roman, L.Stapp - Certyfikowany tester ISTQB
 * O.Reilly - Python Wprowadzenie (under development)
 * J.Duckett - HTML i CSS Zaprojektuj i zbuduj witrynę WWW
