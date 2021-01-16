@@ -134,7 +134,7 @@ Access to the [test run](https://drive.google.com/file/d/1y1tm0XRRY_SJnicBxwP2rf
 * [AP-17](https://drive.google.com/file/d/1-kOz9HKNwPvhY4asrm8lixAinpLULaa2/view?usp=sharing) - detected in the **TC-80** test case ([recording of a reported bug](https://streamable.com/2nt6yz)).
 * [AP-18](https://drive.google.com/file/d/1Z2HbQySmV8idOM7mr5rJLVppi3qY1hmT/view?usp=sharing) - detected in the **TC-38** test case ([recording of a reported bug](https://streamable.com/rgfxuf)).
 * [AP-19](https://drive.google.com/file/d/181qk-OhhP7r1iwoQvKnf4mNQPV6PAIp4/view?usp=sharing) - detected in the **TC-44** test case ([recording of a reported bug](https://streamable.com/6ninx8)).
-* [AP-20](https://drive.google.com/file/d/14iVCWV55CINh7agOgANyLzGhVkxPFhiU/view?usp=sharing) - detected in the **TC-44** test case ([recording of a reported bug](https://streamable.com/vy2gbh)).
+* [AP-20](https://drive.google.com/file/d/14iVCWV55CINh7agOgANyLzGhVkxPFhiU/view?usp=sharing) - detected in the **TC-58** test case ([recording of a reported bug](https://streamable.com/vy2gbh)).
 
 
 
