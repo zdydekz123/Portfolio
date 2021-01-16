@@ -138,7 +138,7 @@ Access to the [test run](https://drive.google.com/file/d/1Jr56yiWqAfOpo9Y9D6x1YO
 * [AP-21](https://drive.google.com/file/d/178vutu7kb1MQrNOvuFywX5q7-mnkmCdB/view?usp=sharing) - detected in the **TC-75** test case ([recording of a reported bug](https://streamable.com/pvi3xz)).<br /><br />
 
 **Test report from TestRail**:
-* [AntennaPod](https://drive.google.com/file/d/1oFmzXKpu6YG6UyhVGEAjp5SKGyzW6H0j/view?usp=sharing)<br /><br />
+* [Summary Runs-AntennaPod](https://drive.google.com/file/d/1oFmzXKpu6YG6UyhVGEAjp5SKGyzW6H0j/view?usp=sharing)<br /><br />
 
 **Test report from Jira Confluence**:
 * [AntennaPod]() **(pending)**
