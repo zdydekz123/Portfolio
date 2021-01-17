@@ -1,7 +1,7 @@
 # Portfolio
 # About me
 My name is Milosz. I've been interesting about testing software 6 month ago. I've liked this direction and started to find proper materials over deeper. I decided to took part in course of SDA about manual testing and post graduate directed to automation testing. In spare time I like play in games on console and hanging out with close friends as well. I'm trying increase my abilities in testing and seeking new solution to how to solve a sort of issues.
-# Tools
+# Tools and known methodologies
 * **Programming languages and frameworks** - Java , Python, Javascript, CSS3, HTML5
 * **Databases** - SQL
 * **Operating system** - Windows, Linux (bash basics, linux commands) 
@@ -31,12 +31,14 @@ My name is Milosz. I've been interesting about testing software 6 month ago. I'v
 # Certificates
 * [ISTQB](https://www.gasq.org/en/certification/check-a-certificate.html) - 15565/FLCT/2020
 # Technical Skills
-* SQL
+* SQL (making queries in SQL, joining table data)
 * SCRUM
+* Manual testing of devices
 * Software testing
-* Creating test cases
-* Reporting bugs
-* Creating a test report
+* Create test cases
+* Searching / Reporting Bugs
+* Create a test report
+* Mobile application testing
 # Training skills
 [utest.com](https://www.utest.com) Platform ID: 896395
 # My examples of test reports
