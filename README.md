@@ -143,7 +143,7 @@ Access to the [test run](https://drive.google.com/file/d/1Jr56yiWqAfOpo9Y9D6x1YO
 * Summary Runs - [AntennaPod](https://drive.google.com/file/d/1oFmzXKpu6YG6UyhVGEAjp5SKGyzW6H0j/view?usp=sharing)<br /><br />
 
 **Test report from Jira Confluence**:
-* [AntennaPod](https://drive.google.com/file/d/108HDoACp8IOZNbk55jS0gczeX8tla5-Y/view?usp=sharing)
+* [AntennaPod](https://drive.google.com/file/d/105tFk5ayfMr4kKGUJlRqgVYlem4-zzGF/view?usp=sharing)
 
 
 
