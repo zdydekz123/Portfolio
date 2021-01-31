@@ -69,6 +69,9 @@ Test cases for **facebook.com** in TestRail:
 * [case 2](https://drive.google.com/file/d/1s5060iZKoL61kEj-bofbK4QmNZdnO3Mn/view?usp=sharing)
 * [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
 
+# My examples of automation test
+* [automation test for Wizzair.com](https://github.com/zdydekz123/automation-code-example/blob/master/sele.py)
+
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod).<br />
 
