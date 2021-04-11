@@ -71,7 +71,7 @@ Test cases for **facebook.com** in TestRail:
 
 # My examples of automation test in Selenium Webdriver
 * [Registration with invalid email for Wizzair.com](https://github.com/zdydekz123/automation-code-example/blob/master/sele.py)
-* [Facebook an account connection with invalid credentials on NTFY.pl](https://github.com/zdydekz123/automation-test-projects/blob/master/project_ntfy.py)
+* [Signing up via facebook account with invalid credentials on NTFY.pl](https://github.com/zdydekz123/automation-test-projects/blob/master/project_ntfy.py)
 * [Checking the correct addition of the product to the basket](https://github.com/zdydekz123/automation-test-projects/blob/master/project_x_kom.py)
 
 # My project
