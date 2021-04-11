@@ -71,6 +71,8 @@ Test cases for **facebook.com** in TestRail:
 
 # My examples of automation test in Selenium Webdriver
 * [Registration with invalid email for Wizzair.com](https://github.com/zdydekz123/automation-code-example/blob/master/sele.py)
+* [Facebook an account connection with invalid credentials on NTFY.pl](https://github.com/zdydekz123/automation-test-projects/blob/master/project_ntfy.py)
+* [Checking the correct addition of the product to the basket](https://github.com/zdydekz123/automation-test-projects/blob/master/project_x_kom.py)
 
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod).<br />
@@ -146,7 +148,10 @@ Access to the [test run](https://drive.google.com/file/d/1Jr56yiWqAfOpo9Y9D6x1YO
 * [Summary Runs](https://drive.google.com/file/d/1oFmzXKpu6YG6UyhVGEAjp5SKGyzW6H0j/view?usp=sharing)<br /><br />
 
 **Test report from Jira Confluence**:
-* [AntennaPod](https://drive.google.com/file/d/105tFk5ayfMr4kKGUJlRqgVYlem4-zzGF/view?usp=sharing)
+* [AntennaPod](https://drive.google.com/file/d/105tFk5ayfMr4kKGUJlRqgVYlem4-zzGF/view?usp=sharing)<br /><br />
+
+**Automation test Project**:
+* [X-KOM project](https://drive.google.com/file/d/1WHXn-1a4Nsxw3XDlGjs5hL25MfUwpJ7K/view)
 
 
 
