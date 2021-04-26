@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-My name is Milosz. I've been interested about testing software one year ago. I've liked this direction and started to find proper materials over deeper. I decided to took part in course of SDA about manual testing and post graduate directed to automation testing. In spare time I like play in games on console and hanging out with close friends as well. I'm trying increase my abilities in testing and seeking new solution for how to solve a sort of issues.
+My name's Milosz. I've been interested about testing software one year ago. I've liked this direction and started to find proper materials over deeper. I decided to took part in course of SDA about manual testing and post graduate directed to automation testing. In spare time I like play in games on console and hanging out with close friends as well. I'm trying increase my abilities in testing and seeking new solution for how to solve a sort of issues.
 # Tools and known methodologies
 * **Programming languages and frameworks** - Java , Python, Javascript, CSS3, HTML5
 * **Databases** - SQL
