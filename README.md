@@ -74,7 +74,7 @@ Test cases for **facebook.com** in TestRail:
 * [Sign up via facebook account with invalid credentials on NTFY.pl website](https://github.com/zdydekz123/NTFY_Registration/blob/master/NTFY_Registration.py)
 * [Adding an item to the cart on Xkom.pl website](https://github.com/zdydekz123/X_Kom_Add_To_Cart/blob/master/X_Kom_Add_To_Cart.py)
 
-# My Page Object model Selenium
+# My Page Object Model Selenium
 * [POM X_kom](https://github.com/zdydekz123/Page_object_model_x_kom)
 
 # My project
