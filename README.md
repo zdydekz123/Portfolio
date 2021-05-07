@@ -69,10 +69,10 @@ Test cases for **facebook.com** in TestRail:
 * [case 2](https://drive.google.com/file/d/1s5060iZKoL61kEj-bofbK4QmNZdnO3Mn/view?usp=sharing)
 * [case 3](https://drive.google.com/file/d/1_tKtvMeloaZ8qBEzZKh8sN1o4cvL8InE/view?usp=sharing)
 
-# My examples of automation test in Selenium Webdriver
-* [Registration with invalid email for Wizzair.com](https://github.com/zdydekz123/automation-code-example/blob/master/sele.py)
-* [Signing up via facebook account with invalid credentials on NTFY.pl](https://github.com/zdydekz123/automation-test-projects/blob/master/project_ntfy.py)
-* [Checking the correct addition of the product to the basket](https://github.com/zdydekz123/automation-test-projects/blob/master/project_x_kom.py)
+# My examples of automated test in Selenium Webdriver
+* [Registration with invalid email on Wizzair.com website](https://github.com/zdydekz123/WizzairRegistration/blob/master/WizzairRegistration.py)
+* [Sign up via facebook account with invalid credentials on NTFY.pl website](https://github.com/zdydekz123/NTFY_Registration/blob/master/NTFY_Registration.py)
+* [Adding a product to the cart on Xkom.pl website](https://github.com/zdydekz123/X_Kom_Add_To_Cart/blob/master/X_Kom_Add_To_Cart.py)
 
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod).<br />
@@ -152,13 +152,3 @@ Access to the [test run](https://drive.google.com/file/d/1Jr56yiWqAfOpo9Y9D6x1YO
 
 **Automation test Project**:
 * [X-KOM project](https://drive.google.com/file/d/1WHXn-1a4Nsxw3XDlGjs5hL25MfUwpJ7K/view)
-
-
-
-
-
-
-
-
-
-
