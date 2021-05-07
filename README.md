@@ -149,6 +149,3 @@ Access to the [test run](https://drive.google.com/file/d/1Jr56yiWqAfOpo9Y9D6x1YO
 
 **Test report from Jira Confluence**:
 * [AntennaPod](https://drive.google.com/file/d/105tFk5ayfMr4kKGUJlRqgVYlem4-zzGF/view?usp=sharing)<br /><br />
-
-**Automation test Project**:
-* [X-KOM project](https://drive.google.com/file/d/1WHXn-1a4Nsxw3XDlGjs5hL25MfUwpJ7K/view)
