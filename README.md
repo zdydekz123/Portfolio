@@ -72,7 +72,10 @@ Test cases for **facebook.com** in TestRail:
 # My examples of automated test in Selenium Webdriver
 * [Registration with invalid email on Wizzair.com website](https://github.com/zdydekz123/WizzairRegistration/blob/master/WizzairRegistration.py)
 * [Sign up via facebook account with invalid credentials on NTFY.pl website](https://github.com/zdydekz123/NTFY_Registration/blob/master/NTFY_Registration.py)
-* [Adding a product to the cart on Xkom.pl website](https://github.com/zdydekz123/X_Kom_Add_To_Cart/blob/master/X_Kom_Add_To_Cart.py)
+* [Adding an item to the cart on Xkom.pl website](https://github.com/zdydekz123/X_Kom_Add_To_Cart/blob/master/X_Kom_Add_To_Cart.py)
+
+# My Page Object model Selenium
+* [POM X_kom](https://github.com/zdydekz123/Page_object_model_x_kom)
 
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod).<br />
