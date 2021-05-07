@@ -81,7 +81,7 @@ Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id
 
 **Testing environment:**
 * mobile phone model: Xiaomi Redmi Note 8,
-* android version: 9 PKQ1.190616.001.<br /><br /><br /><br />
+* android version: 9 PKQ1.190616.001.<br /><br />
 
 **Reported test cases in TestRail:**<br />
 Access to the [test cases](https://drive.google.com/file/d/1jv230ZI25C4bQpNvj_wNbK_Dq0eRMKKo/view?usp=sharing) file of AntennaPod<br /><br />
