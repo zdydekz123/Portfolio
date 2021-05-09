@@ -75,7 +75,7 @@ Test cases for **facebook.com** in TestRail:
 * [Adding an item to the cart on Xkom.pl website](https://github.com/zdydekz123/X_Kom_Add_To_Cart/blob/master/X_Kom_Add_To_Cart.py)
 
 # My Page Object Model Selenium
-* [POM X_kom](https://github.com/zdydekz123/Page_object_model_x_kom)
+* [POM X_kom](https://github.com/zdydekz123/Page_object_model_x_kom_shop)
 
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod).<br />
