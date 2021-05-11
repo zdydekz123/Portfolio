@@ -78,7 +78,7 @@ Test cases for **facebook.com** in TestRail:
 * [POM X_kom](https://github.com/zdydekz123/Page_object_model_x_kom_shop)
 
 # My Selenium Pytest project
-* [POM X_kom](https://github.com/zdydekz123/Pytest_x-kom_shop)
+* [Pytest X_kom](https://github.com/zdydekz123/Pytest_x-kom_shop)
 
 # My project
 Testing of mobile app [AntennaPod](https://play.google.com/store/apps/details?id=de.danoeh.antennapod).<br />
